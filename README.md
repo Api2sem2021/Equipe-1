@@ -1,1 +1,1 @@
-Automatizzação de raspagem de links do github
+Automatização de raspagem de links do github
