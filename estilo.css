@@ -69,6 +69,7 @@ body {
 .clear{
 	clear: both;
 }
+
 .sem {
 	border: solid 0.2px black;
 	margin:50px 5px 5px 5px;
@@ -77,10 +78,44 @@ body {
 	float: left;
 
 }
+
 .divisaosem{
 	border-bottom: 0.2px solid black;
 	width: 200px;
 	background: grey;
 	text-align: center;
 	margin-bottom: 5px;
+}	
+						
+.clear{
+	clear: both;	/*inicio rodapé*/
 }
+
+.rodape{
+	background: #DCDCDC;
+	height: 450px;
+}
+.imagem-rodape{
+	padding: 65px 500px ;
+
+		}
+
+.menu-rodape{
+	padding-left: 300px;
+	font-family:Sans-serif Arial;
+	font-size: 18px;
+
+}
+.icon-email{
+	padding-left: 620px;
+	padding-top: 40px;
+	margin-right:30px ;
+
+}
+hr{
+	width: 850px;
+	
+}
+.centralizar{
+	text-align: center;
+}							/*fim rodapé*/

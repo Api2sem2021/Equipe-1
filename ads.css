@@ -1,7 +1,4 @@
-*{
-	margin: 0;
-	padding: 0;
-}
+
 body{
 	background-image: url('imagem/unnamed.jpg');
 	background-repeat: no-repeat;
@@ -12,7 +9,12 @@ a{
 	text-decoration: none;
 	text-decoration-color: B0C4DE;
 }
-
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
 #cabeçalho-ads{
 	background: grey;
 	width: 100%;
@@ -67,33 +69,3 @@ a{
 .clear{
 	clear: both;
 }
-
-.rodape{
-	width: 100%;
-	background: #DCDCDC;
-	height: 450px;
-}
-.imagem-rodape{
-	padding: 65px 500px ;
-
-		}
-
-.menu-rodape{
-	padding-left: 300px;
-	font-family:Sans-serif Arial;
-	font-size: 18px;
-
-}
-.icon-email{
-	padding-left: 620px;
-	padding-top: 40px;
-	margin-right:30px ;
-
-}
-hr{
-	width: 850px;
-	
-}
-.centralizar{
-	text-align: center;
-}							/*fim rodapé*/
