@@ -72,7 +72,11 @@ body {
 
 .sem {
 	border: solid 0.2px black;
+<<<<<<< HEAD
 	margin:50px 1px 1px 1px;
+=======
+	margin:50px 5px 5px 5px;
+>>>>>>> 8537c5f1949ac74ff8ad6370e1a88fed5227ecb3
 	width: 200px;
 	height: 200px;
 	float: left;
@@ -84,11 +88,16 @@ body {
 	width: 200px;
 	background: grey;
 	text-align: center;
+<<<<<<< HEAD
 }	
 
 .linkmenu{
 	padding: 10px;
 }
+=======
+	margin-bottom: 5px;
+}	
+>>>>>>> 8537c5f1949ac74ff8ad6370e1a88fed5227ecb3
 						
 .clear{
 	clear: both;	/*inicio rodapé*/
@@ -97,7 +106,10 @@ body {
 .rodape{
 	background: #DCDCDC;
 	height: 450px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8537c5f1949ac74ff8ad6370e1a88fed5227ecb3
 }
 .imagem-rodape{
 	padding: 65px 500px ;
