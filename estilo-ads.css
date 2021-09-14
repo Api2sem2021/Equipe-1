@@ -1,0 +1,180 @@
+a{
+ 	padding: 25px;
+	font: Arial, Helvetica, sans-serif; 
+	font-size: 16px;
+ }
+
+ a:link, a:visited{
+ 	color: black;
+ }
+ a:hover{
+ 	color: grey;
+ }
+
+ #menu a:link, #menu a:visited{
+ 	color: grey;
+
+ }
+ #menu a:hover{
+ 	color: white;
+ }
+
+ /* layout pag 1 */
+#cabeçalho{
+	background-image : url('imagem/header-bg.jpg');
+	
+	height: 250px;
+	color: white;
+	padding: 20px;
+	text-align: center;
+
+}
+#logo{
+	padding-top: 60px;
+	padding-left: 200px;
+}
+#menu{
+	padding-left: 0px;
+	padding-top: 60px;
+	
+
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+ a{
+ 	text-decoration: none;
+ 	padding: 25px;
+ }
+ a:link, a:visited{
+ 	color: black;
+ }
+ a:hover{
+ 	color: grey;
+ }
+#cabeçalho-segundo{
+	height: 350px;
+	background-color: #4a555c;
+
+
+}
+.logo_ads{
+	margin: 20px;
+	position: relative;
+	text-align: center;
+}
+.h3{
+	position: relative;
+	text-align: center;
+	top: 30px;
+}
+.h2{
+	position: relative;
+	top:45%;
+	text-align: center;
+	font-size: 55px;
+	font-family: Fantasy,Copperplate;
+}
+.conteudo-principal{
+	width: 1100px;
+	margin: 20px auto;
+	padding:10px;
+}
+
+.conteudo-principal-2{
+	width: 920px;
+	margin: 20px auto;
+	
+
+}
+#conteudo-turmas{
+	margin: 20px auto;
+	padding: 15px;
+}
+
+.turma{
+	border-bottom: 0.2px solid black;
+	width: 100%;
+	background: grey;
+	text-align: center;
+}
+
+.turmas{
+	border: solid 0.2px black;
+	margin:10px 60px 1px 60px;
+	width: 500px;
+	
+	float: left; 
+}
+
+.nome-equipe{
+	width: 100%;
+	text-align: center;
+ }
+
+
+.equipe{
+	border: solid 0.2px black;
+	width: 100%;
+	float: left;
+	padding-top: 10px;
+	
+}
+
+
+
+
+.hrconteudo{
+	width: 210px;
+	position: relative;
+	left: 5%;
+
+
+}			
+
+.clear{
+	clear: both;	/*inicio rodapé*/
+}
+
+.rodape{
+	background: #DCDCDC;
+	height: 450px;
+}
+.imagem-rodape{
+	padding: 65px 500px ;
+	position: relative;
+	text-align: center;
+
+		}
+
+.menu-rodape{
+	position: relative;
+	text-align: center;
+	font-family:Sans-serif Arial;
+	font-size: 18px;
+
+}
+.icon-email{
+	position: relative;
+	text-align: center;
+	padding-top:40px;
+	margin-right:30px ;
+
+}
+hr{
+	width: 850px;
+	position: relative;
+	left: 18%;
+
+	
+}
+.centralizar{
+	text-align: center;
+}							/*fim rodapé*/
+h4{
+	position: relative;
+	left: 50px;
+}
