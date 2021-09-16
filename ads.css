@@ -20,7 +20,6 @@ footer {
 	width: 100%;
 	text-align: center;
 	padding: 20px;
-	
 
 }
 #area-principal-ads{
@@ -39,6 +38,9 @@ footer {
 	padding: 20px;
 	text-align: center;
 	clear: both;
+}
+.logo-ads{
+	margin: 0;
 }
 
 .turma{

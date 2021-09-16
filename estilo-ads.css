@@ -1,15 +1,9 @@
-a{
- 	padding: 25px;
-	font: Arial, Helvetica, sans-serif; 
-	font-size: 16px;
- }
+*{
+	margin: 0;
+	padding: 0;
+}
 
- a:link, a:visited{
- 	color: black;
- }
- a:hover{
- 	color: grey;
- }
+ 
 
  #menu a:link, #menu a:visited{
  	color: grey;
@@ -21,6 +15,7 @@ a{
 
  /* layout pag 1 */
 #cabeçalho{
+	position: relative;
 	background-image : url('imagem/header-bg.jpg');
 	
 	height: 250px;
@@ -30,6 +25,7 @@ a{
 
 }
 #logo{
+	position: relative;
 	padding-top: 60px;
 	padding-left: 200px;
 }
@@ -38,11 +34,6 @@ a{
 	padding-top: 60px;
 	
 
-}
-
-*{
-	margin: 0;
-	padding: 0;
 }
 
  a{
@@ -55,32 +46,39 @@ a{
  a:hover{
  	color: grey;
  }
+ .equipe a{
+	 margin: 0;
+	 padding: 0;
+ }
 #cabeçalho-segundo{
-	height: 350px;
+	width: 95%;
 	background-color: #4a555c;
+	margin: auto;
+	margin-top: 2px;
 
 
 }
 .logo_ads{
-	margin: 20px;
+	margin: 0;
 	position: relative;
 	text-align: center;
 }
 .h3{
-	position: relative;
-	text-align: center;
-	top: 30px;
+	padding-top: 0%;
+	padding-bottom: 5px;
+	color: white;
+}
 }
 .h2{
 	position: relative;
 	top:45%;
 	text-align: center;
-	font-size: 55px;
+	font-size: 5em;
 	font-family: Fantasy,Copperplate;
 }
 .conteudo-principal{
-	width: 1100px;
-	margin: 20px auto;
+	width: 70%;
+	margin: auto;
 	padding:10px;
 }
 
@@ -91,28 +89,60 @@ a{
 
 }
 #conteudo-turmas{
-	margin: 20px auto;
-	padding: 15px;
+	
+	margin: auto;
+	width: 90%;
+	height: 350px;
+}
+.dordem{
+	width: 100%;
+}
+.ordem{
+   display: inline-block;
+	width: 24%;
+	margin-right: 2px;
+	margin-bottom: 10px;
+	border: 0.1px solid black;
+	line-height: 40px;
+	border-bottom: 4px solid black;
+}
+.ordem1{
+	display: inline-block;
+	width: 12%;
+	margin-right: 2px;
+	margin-bottom: 10px;
+	border: 0.1px solid black;
+	line-height: 40px;
+	border-bottom: 4px solid black;
+
 }
 
 .turma{
-	border-bottom: 0.2px solid black;
+	border: 0.1px solid black;
 	width: 100%;
 	background: grey;
 	text-align: center;
+	line-height: 20px;
+
 }
 
 .turmas{
-	border: solid 0.2px black;
-	margin:10px 60px 1px 60px;
-	width: 500px;
-	
+	border: solid 0.1px black;
+	width: 11%;
 	float: left; 
+	margin-left: 1%;
+
+	
+   
 }
+
+   
+
 
 .nome-equipe{
 	width: 100%;
 	text-align: center;
+
  }
 
 
@@ -122,6 +152,9 @@ a{
 	float: left;
 	padding-top: 10px;
 	
+}
+.mar{
+	margin-left: 0px;
 }
 
 
@@ -140,6 +173,7 @@ a{
 }
 
 .rodape{
+	position: relative;
 	background: #DCDCDC;
 	height: 450px;
 }
@@ -151,7 +185,7 @@ a{
 		}
 
 .menu-rodape{
-	position: relative;
+	position: absolute middle;
 	text-align: center;
 	font-family:Sans-serif Arial;
 	font-size: 18px;
@@ -164,16 +198,18 @@ a{
 	margin-right:30px ;
 
 }
-hr{
-	width: 850px;
-	position: relative;
-	left: 18%;
 
-	
-}
+
 .centralizar{
+	position: relative;
 	text-align: center;
-}							/*fim rodapé*/
+}	
+.alinha
+	text-align: center;
+}	
+h2{
+	font-size: 1em;
+}					/*fim rodapé*/
 h4{
 	position: relative;
 	left: 50px;
