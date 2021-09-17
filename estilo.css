@@ -99,30 +99,39 @@ body {
 }
 
 .rodape{
+	position: relative;
 	background: #DCDCDC;
 	height: 450px;
 }
 .imagem-rodape{
 	padding: 65px 500px ;
+	position: relative;
+	text-align: center;
 
 		}
 
 .menu-rodape{
-	padding-left: 300px;
+	position: absolute middle;
+	text-align: center;
 	font-family:Sans-serif Arial;
 	font-size: 18px;
 
 }
 .icon-email{
-	padding-left: 620px;
-	padding-top: 40px;
+	position: relative;
+	text-align: center;
+	padding-top:40px;
 	margin-right:30px ;
 
 }
-hr{
-	width: 850px;
-	
-}
+
+
 .centralizar{
+	position: relative;
 	text-align: center;
-}							/*fim rodapé*/
+}	
+.alinha
+	text-align: center;
+}	
+h2{
+	font-size: 1em;			/*fim rodapé*/
