@@ -1,0 +1,73 @@
+
+body{
+	background-image: url('imagem/unnamed.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+a{
+	text-decoration: none;
+	text-decoration-color: B0C4DE;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+#cabeçalho-ads{
+	background: grey;
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+
+}
+#area-principal-ads{
+	text-align: center;
+	width: 920px;
+	margin: 0px auto;
+
+}
+#rodape{
+	background-image: url('imagem/rodapé.jfif');
+	margin-bottom: 0px;
+	border: solid 2px black;
+	background: grey;
+	width: 100%;
+	margin-top: 10px;
+	padding: 20px;
+	text-align: center;
+	clear: both;
+}
+.logo-ads{
+	margin: 0;
+}
+
+.turma{
+	border: solid 2px black;
+	width: 340px;
+	float: right;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.classe{
+	width: 340px;
+	height: 40px;
+	float: right;
+	background: grey;
+	border-bottom: solid 0.2px black;
+
+}
+.equipe{
+	border: solid 0.2px black;
+	background: grey;
+	width: 100px;
+	height: 100px;
+	float: right;
+	margin: 5px;
+	text-align: center;
+	/*background: DCDCDC*/;
+}
+.clear{
+	clear: both;
+}
