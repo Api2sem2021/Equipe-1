@@ -57,7 +57,7 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
 | Quem | O que? | Para |
 |:--------------:  | :----------:|:---------------------------------------------------------|
 | Desenvolvedor | Gostaria de uma interface visual.  | Para que facilite a execução do código de raspagem e coloque-o no banco de dados. |
-| Desenvolvedor | Gostaria de uma forma de clonar os reposotórios de forma automática.  | agilizar o processo de clonagem dos repositórios das próximas turmas que virão.  |
+| Desenvolvedor | Gostaria de uma forma de clonar os repositórios de forma automática.  | agilizar o processo de clonagem dos repositórios das próximas turmas que virão.  |
 | Desenvolvedor | Gostaria de uma página responsiva e fácil de utilizar.  | Para que facilite o uso do sites para o cliente.  |
 
 ## Backlog do produto
