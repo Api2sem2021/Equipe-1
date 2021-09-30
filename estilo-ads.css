@@ -53,7 +53,7 @@
 #cabeçalho-segundo{
 
 	width: 100%;
-	background-color: #4a555c;
+	background-color:white;
 	margin: auto;
 	margin-top: 2px;
 
@@ -69,6 +69,12 @@
 	padding-bottom: 5px;
 	color: white;
 }
+.h3m{
+	padding-top: 0%;
+	padding-bottom: 5px;
+	color:#B22D30;
+}
+
 }
 .h2{
 	position: relative;
@@ -109,15 +115,40 @@
 }
 .ordem1{
 	display: inline-block;
-	width: 12%;
+	width: 12.5%;
 	margin-right: 2px;
 	margin-bottom: 10px;
 	border: 0.1px solid black;
 	line-height: 40px;
 	border-bottom: 4px solid black;
-
 }
-
+.ordem2{
+	display: inline-block;
+	 width: 19%;
+	 margin-right: 2px;
+	 margin-bottom: 10px;
+	 border: 0.1px solid black;
+	 line-height: 40px;
+	 border-bottom: 4px solid black;
+}
+.ordem3{
+	display: inline-block;
+	width: 25%;
+	margin-right: 2px;
+	margin-bottom: 10px;
+	border: 0.1px solid black;
+	line-height: 40px;
+	border-bottom: 4px solid black;
+}
+.ordem4{
+	display: inline-block;
+	width: 24%;
+	margin-right: 2px;
+	margin-bottom: 10px;
+	border: 0.1px solid black;
+	line-height: 40px;
+	border-bottom: 4px solid black;
+}
 .turma{
 	border: 0.1px solid black;
 	width: 100%;
@@ -132,11 +163,51 @@
 	width: 11%;
 	float: left; 
 	margin-left: 1%;
-
-	
    
 }
+.turmasx{
+	border: solid 0.1px black;
+	width: 11%;
+	float: left; 
+	margin-left: 1.5%;
+   
+}
+.turmas1{
+	border: solid 0.1px black;
+	width: 18.012%;
+	float: left; 
+	margin-left: 0.7%;
+	margin-right: 0.45%;
 
+}
+.turmas1-1{
+	border: solid 0.1px black;
+	width: 18.012%;
+	float: left; 
+	margin-left: 1%;
+	margin-right: 0.45%;
+}
+.turmas2{
+	border: solid 0.1px black;
+	width: 23%;
+	float: left; 
+	margin-left: 1%;
+}
+
+.turmas2-1{
+	border: solid 0.1px black;
+	width: 23%;
+	float: left; 
+	margin-left: 1.5%;
+	margin-right: 0.3%;
+}
+.turmas2-2{
+	border: solid 0.1px black;
+	width: 23%;
+	float: left; 
+	margin-left: 0.85%;
+	margin-right: 0.2%;
+}
    
 
 
