@@ -148,7 +148,19 @@
 	border: 0.1px solid black;
 	line-height: 40px;
 	border-bottom: 4px solid black;
+
 }
+
+.ordem5{
+	display: inline-block;
+	width: 11%;
+	margin-right: 2px;
+	margin-bottom: 10px;
+	border: 0.1px solid black;
+	line-height: 40px;
+	border-bottom: 4px solid black;
+}
+
 .turma{
 	border: 0.1px solid black;
 	width: 100%;
