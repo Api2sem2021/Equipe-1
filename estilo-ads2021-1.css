@@ -51,6 +51,7 @@
 	 padding: 0;
  }
 #cabeçalho-segundo{
+
 	width: 100%;
 	background-color: #4a555c;
 	margin: auto;
@@ -59,13 +60,13 @@
 
 }
 .logo_ads{
+	margin: 0;
 	position: relative;
 	text-align: center;
 }
 .h3{
-	position: relative;
-	text-align: center;
-	bottom: 35px;
+	padding-top: 0%;
+	padding-bottom: 5px;
 	color: white;
 }
 }
@@ -93,30 +94,34 @@
 	margin: auto;
 	width: 90%;
 	height: 350px;
-	position: relative;
-	text-align: center;
 }
 .dordem{
 	width: 100%;
 }
 .ordem{
    display: inline-block;
-	width: 20%;
+	width: 24%;
 	margin-right: 2px;
 	margin-bottom: 10px;
 	border: 0.1px solid black;
 	line-height: 40px;
 	border-bottom: 4px solid black;
-
+	margin-left: 0%;
+	position: relative;
+	left: 2%;
 }
 .ordem1{
 	display: inline-block;
-	width: 20%;
-	margin-right: 0px;
+	width: 12%;
+	margin-right: 2px;
 	margin-bottom: 10px;
 	border: 0.1px solid black;
 	line-height: 40px;
 	border-bottom: 4px solid black;
+	padding: 0%;
+	position: relative;
+	left: 2%;
+
 
 }
 
@@ -131,18 +136,28 @@
 
 .turmas{
 	border: solid 0.1px black;
-	width: 20%;
+	width: 12%;
 	float: left; 
-	margin-right: 5PX;
+	margin-left: 0.6%;
 	position: relative;
-	left: 9.0%;
-
+	left:1.5%;
 
 
 	
    
 }
+.turmas1{
+	border: solid 0.1px black;
+	width: 11.5%;
+	float: left; 
+	margin-left: 0.5%;
+	position: relative;
+	left: 1.8%;
 
+
+	
+   
+}
    
 
 
