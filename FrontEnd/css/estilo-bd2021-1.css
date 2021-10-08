@@ -16,7 +16,7 @@
  /* layout pag 1 */
 #cabeçalho{
 	position: relative;
-	background-image : url('imagem/header-bg.jpg');
+	background-image : url('../imagem/header-bg.jpg');
 	
 	height: 250px;
 	color: white;
@@ -67,7 +67,6 @@
 	text-align: center;
 	bottom: 35px;
 	color: white;
-}
 }
 .h2{
 	position: relative;
@@ -211,7 +210,7 @@
 	position: relative;
 	text-align: center;
 }	
-.alinha
+.alinha{
 	text-align: center;
 }	
 h2{

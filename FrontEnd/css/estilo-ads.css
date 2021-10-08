@@ -16,7 +16,7 @@
  /* layout pag 1 */
 #cabeçalho{
 	position: relative;
-	background-image : url('imagem/header-bg.jpg');
+	background-image : url('../imagem/header-bg.jpg');
 	
 	height: 250px;
 	color: white;

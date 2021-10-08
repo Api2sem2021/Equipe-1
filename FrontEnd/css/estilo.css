@@ -29,7 +29,7 @@ body {
 
  /* layout pag 1 */
 #cabeçalho{
-	background-image : url('imagem/header-bg.jpg');
+	background-image : url('../imagem/header-bg.jpg');
 	
 	height: 250px;
 	color: white;
@@ -130,8 +130,9 @@ body {
 	position: relative;
 	text-align: center;
 }	
-.alinha
+.alinha{
 	text-align: center;
 }	
 h2{
 	font-size: 1em;			/*fim rodapé*/
+}
