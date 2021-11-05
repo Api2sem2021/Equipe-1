@@ -1,0 +1,138 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body { 
+	font-style: normal;
+	font-size: 1em;
+	background: white;
+
+ }
+ a{
+ 	text-decoration: none;
+ 	padding: 25px;
+ }
+ a:link, a:visited{
+ 	color: black;
+ }
+ a:hover{
+ 	color: grey;
+ }
+
+ #menu a:link, #menu a:visited{
+ 	color: grey;
+
+ }
+ #menu a:hover{
+ 	color: white;
+ }
+
+ /* layout pag 1 */
+#cabeçalho{
+	background-image :  url('..static/imagem/header-bg.jpg');
+	
+	height: 250px;
+	color: white;
+	padding: 20px;
+	text-align: center;
+
+}
+#logo{
+	padding-top: 60px;
+	padding-left: 200px;
+}
+#menu{
+	padding-left: 0px;
+	padding-top: 60px;
+}
+
+#area-principal{
+	width: 920px;
+	margin: 20px auto;
+}
+#area-postagens, #area-lateral{
+	background: white;
+}
+
+#area-postagens{
+	width: 660px;
+	float: left;
+	padding: 5px;
+
+}
+
+#area-lateral{
+	width: 240px;
+	padding: 5px;
+	float: right;
+}
+.clear{
+	clear: both;
+}
+
+.sem {
+	border: solid 0.2px black;
+	margin:50px 5px 5px 5px;
+	width: 200px;
+	height: 200px;
+	float: left;
+
+}
+.sem a{
+	margin: 0;
+	padding: 0s;
+}
+
+.divisaosem{
+	border-bottom: 0.2px solid black;
+	width: 200px;
+	background: grey;
+	text-align: center;
+}	
+
+.linkmenu{
+	padding: 10px;
+}	
+						
+.clear{
+	clear: both;	/*inicio rodapé*/
+}
+
+.rodape{
+	position: relative;
+	background: #DCDCDC;
+	height: 450px;
+}
+.imagem-rodape{
+	padding: 65px 500px ;
+	position: relative;
+	text-align: center;
+
+		}
+
+.menu-rodape{
+	position: absolute middle;
+	text-align: center;
+	font-family:Sans-serif Arial;
+	font-size: 18px;
+
+}
+.icon-email{
+	position: relative;
+	text-align: center;
+	padding-top:40px;
+	margin-right:30px ;
+
+}
+
+
+.centralizar{
+	position: relative;
+	text-align: center;
+}	
+.alinha{
+	text-align: center;
+}	
+h2{
+	font-size: 1em;			/*fim rodapé*/
+}
