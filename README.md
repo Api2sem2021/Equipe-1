@@ -40,7 +40,7 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
    - [X] Linguagem Python, HTML e CSS (Requisito Fatec).
    - [X] Clonagem dos githubs disponibilizados no site da Fatec SJC.
    - [X] Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções.
-   - [ ] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
+   - [X] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
    - [X] Todas as pastas devem seguir uma organização por curso, semestre, turma e equipe.
    - [X] Site para a exposição dos projetos.
 
@@ -116,11 +116,11 @@ Redirecionamento para os links no site protótipo | Prioridade Média
     - Redirecionamento para os repositórios clonados no site protótipo.
 
 * Sprint 3 (18/10/2021 - 07/11/2021)
-    - Manual de instalação 
-    - Hospedagem do site protótipo na web
+    - Finalização das páginas em Flask.
+    - Raspagem automática finalizada.
 
 * Sprint 4 (08/11/2021 - 28/11/2021)
-   -
+   - Hospedagem das páginas.
 
 ## Tecnologias Utilizadas  
 
