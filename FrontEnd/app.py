@@ -17,6 +17,11 @@ def BD():
 def ADS2020_2():  
     return render_template('ads-2020-2.html')
 
+@app.route("/bd2020_2") 
+def BD2020_2():  
+    return render_template('bd-2020-2.html')
+
+
 @app.route("/logistica2020_2") 
 def Logistica2020_2():  
     return render_template('Logistica2020.2.html')
@@ -46,9 +51,9 @@ def Logistica20211():
     return render_template('Logistica20211.html')
 
 
-@app.route("/manutençaodeaeronaves20211") 
-def ManutençaodeaAronaves20211():  
-    return render_template('manutençaodeaeronaves20211.html')
+@app.route("/manufaturaavançada20211") 
+def manufaturaavançada20211():  
+    return render_template('manufaturaavançada20211.html')
 
 @app.route("/manutençaodeaeronaves2021_1") 
 def ManutençaodeAeronaves2021_1():  

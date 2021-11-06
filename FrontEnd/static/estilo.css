@@ -29,7 +29,7 @@ body {
 
  /* layout pag 1 */
 #cabeçalho{
-	background-image :  url('..static/imagem/header-bg.jpg');
+	background-image :url('../static/imagem/header-bg.jpg');
 	
 	height: 250px;
 	color: white;
