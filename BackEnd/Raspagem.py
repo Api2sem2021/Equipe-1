@@ -1,4 +1,3 @@
-# Alien X
 from functools import partial
 from os import write
 from bs4 import BeautifulSoup as bs
@@ -23,7 +22,8 @@ url = "https://fatecsjc-prd.azurewebsites.net/api/turmas.php"
 html = requests.get(url).text
 sopa = bs(html, "html.parser")
 semestres = sopa.findAll("a")
-# quatrobraços
+
+
 url = source + semestres[0].attrs["href"]
 html = requests.get(url).text
 sopa = bs(html, "html.parser")
@@ -53,7 +53,6 @@ for git in youtube_2020_1:
         git_2020_1.append(caso)
 
 
-# XLR8
 for s in semestres[1:2]:
     print("Processando semestre...")
     sem = s.text.split("/")[0]  # separa antes da barra
@@ -83,7 +82,7 @@ while c <= len(youtube_2020_2) - 1:
         git_2020_2.append(caso)
     c = c + 1
 
-# insectoide
+
 for s in semestres[2:]:
     print("Processando semestre...")
     sem = s.text.split("/")[0]  # separa antes da barra
@@ -113,7 +112,6 @@ while c <= len(youtube_2021_1) - 1:
         git_2021_1.append(caso)
     c = c + 1
 
-# Ultra T
 
 df = pd.DataFrame(
     {
