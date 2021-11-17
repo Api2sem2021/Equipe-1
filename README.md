@@ -8,14 +8,14 @@
 
 ## Participantes
 
-Nome | Função | Github
-:--- | :--- | :---
-Gustavo Lobato de Paulo | Scrun Master | [Gustavoldp](https://github.com/Gustavoldp)
-Everton Ricardo Wanderley da Rocha | Desenvolvedor | [Evertonrwr](https://github.com/Evertonrwr)
-Diego Batista da Silva | Desenvolvedor | [diiegobsilva](https://github.com/diiegobsilva)
-Gustavo Konflanz Mezzomo | Desenvolvedor | [gustavomezzomo](https://github.com/gustavomezzomo)
-Guilherme Konflanz Mezzomo | Desenvolvedor | [GuilhermeKMezzomo](https://github.com/GuilhermeKMezzomo)
-Ian Carvalho Lourenço | Desenvolvedor | [IanCarvalho21](https://github.com/IanCarvalho21)
+|Nome|Função|GitHub
+| -------- |-------- |-------- 
+|**Gustavo Lobato de Paulo**|Scrum Master|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"/>](https://github.com/Gustavoldp)|<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEqjHK3s2KQ9g/profile-displayphoto-shrink_800_800/0/1614391630089?e=1626912000&v=beta&t=7Wk-nGEpy8Ug3IaCBaw4LwKh4nCq6Z3LD7BtgxuiOcM" height="50"/>|
+|**Everton Ricardo Wanderley da Rocha**| Desenvolvedor |[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/Evertonrwr)|<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEqjHK3s2KQ9g/profile-displayphoto-shrink_800_800/0/1614391630089?e=1626912000&v=beta&t=7Wk-nGEpy8Ug3IaCBaw4LwKh4nCq6Z3LD7BtgxuiOcM" height="50"/>|
+|**Diego Batista da Silva**| Desenvolvedor |[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/diiegobsilva)|<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEqjHK3s2KQ9g/profile-displayphoto-shrink_800_800/0/1614391630089?e=1626912000&v=beta&t=7Wk-nGEpy8Ug3IaCBaw4LwKh4nCq6Z3LD7BtgxuiOcM" height="50"/>|
+|**Gustavo Konflanz Mezzomo**| Desenvolvedor |[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/gustavomezzomo)|<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEqjHK3s2KQ9g/profile-displayphoto-shrink_800_800/0/1614391630089?e=1626912000&v=beta&t=7Wk-nGEpy8Ug3IaCBaw4LwKh4nCq6Z3LD7BtgxuiOcM" height="50"/>|
+|**Guilherme Konflanz Mezzomo**| Desenvolvedor |[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/GuilhermeKMezzomo)|<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEqjHK3s2KQ9g/profile-displayphoto-shrink_800_800/0/1614391630089?e=1626912000&v=beta&t=7Wk-nGEpy8Ug3IaCBaw4LwKh4nCq6Z3LD7BtgxuiOcM" height="50"/>|
+|**Ian Carvalho Lourenço**| Desenvolvedor |[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/IanCarvalho21)|<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEqjHK3s2KQ9g/profile-displayphoto-shrink_800_800/0/1614391630089?e=1626912000&v=beta&t=7Wk-nGEpy8Ug3IaCBaw4LwKh4nCq6Z3LD7BtgxuiOcM" height="50"/>|
 
 ## Índice
 
@@ -40,7 +40,7 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
    - [X] Linguagem Python, HTML e CSS (Requisito Fatec).
    - [X] Clonagem dos githubs disponibilizados no site da Fatec SJC.
    - [X] Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções.
-   - [X] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
+   - [ ] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
    - [X] Todas as pastas devem seguir uma organização por curso, semestre, turma e equipe.
    - [X] Site para a exposição dos projetos.
 
@@ -115,13 +115,13 @@ Redirecionamento para os links no site protótipo | Prioridade Média
     - Protótipo de GUI para a raspagem automática do site da Fatec SJC.
     - Redirecionamento para os repositórios clonados no site protótipo.
 
-* Sprint 3 (18/10/2021 - 07/11/2021)
-    - Finalização das páginas em Flask.
-    - Raspagem automática finalizada.
-
+* Sprint 3 (18/10/2021 - 07/11/2021) 
+    - Implementação do Flask 
+    
 * Sprint 4 (08/11/2021 - 28/11/2021)
-   - Hospedagem das páginas.
-
+   - Manual de instruções
+   - Hospedagem do site na web
+  
 ## Tecnologias Utilizadas  
 
 <div>
@@ -129,5 +129,8 @@ Redirecionamento para os links no site protótipo | Prioridade Média
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON <br>
+  <img width="50 rem" src="https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png"/> FLASK
+  <img width="50 rem" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"/> AZURE
+  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/> DOCKER
 </div>
