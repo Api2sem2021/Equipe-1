@@ -107,6 +107,8 @@
 	border: 0.1px solid black;
 	line-height: 40px;
 	border-bottom: 4px solid black;
+	position: relative;
+	left: 17%;
 
 }
 .ordem1{
@@ -117,7 +119,8 @@
 	border: 0.1px solid black;
 	line-height: 40px;
 	border-bottom: 4px solid black;
-
+	position: relative;
+	left: 17%
 }
 
 .turma{
@@ -135,11 +138,9 @@
 	float: left; 
 	margin-right: 5PX;
 	position: relative;
+	left: 17%;
 	
 
-
-
-	
    
 }
 
