@@ -102,6 +102,18 @@ Redirecionamento para os links no site protótipo | Prioridade Média
   <img src="https://user-images.githubusercontent.com/90697929/133859404-5ad2a5fa-a9a9-4f52-a051-2fa4ad1cabf5.gif" width="700px"/>
 </div>
 
+### Página home (versão mobile)
+
+<div align="center">
+  <img src="![WhatsApp Image 2021-11-27 at 21 30 31](https://user-images.githubusercontent.com/90697929/143724516-5a117d49-9c4c-4dfe-8a75-97c05c99a7f2.jpeg)" width="700px"/>
+</div>
+
+### Página das Salas (versão mobile)
+
+<div align="center">
+  <img src="![WhatsApp Image 2021-11-27 at 21 30 32](https://user-images.githubusercontent.com/90697929/143724485-4e006ae0-9091-4182-ae2b-bd8936ef140b.jpeg)" width="700px"/>
+</div>
+
 ## Entregas
 
 * Sprint 1 (30/08/2021 - 19/09/2021)
