@@ -40,7 +40,7 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
    - [X] Linguagem Python, HTML e CSS (Requisito Fatec).
    - [X] Clonagem dos githubs disponibilizados no site da Fatec SJC.
    - [X] Raspar do site da Fatec os links de acesso para os vídeos da feira de soluções.
-   - [ ] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
+   - [X] Gerar um código para incorporar na página da Fatec SJC contendo a indexação de todos os projetos.
    - [X] Todas as pastas devem seguir uma organização por curso, semestre, turma e equipe.
    - [X] Site para a exposição dos projetos.
 
@@ -49,7 +49,7 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
 
 * Requisitos não funcionais
   ---
-  - [ ] Manual de instalação.
+  - [X] Manual de instalação.
   - [X] Organização do github.
 
 ## User Story
