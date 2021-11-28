@@ -104,11 +104,11 @@ Redirecionamento para os links no site protótipo | Prioridade Média
 
 ### Página home (versão mobile)
 
- ![WhatsApp Image 2021-11-27 at 21 30 31](https://user-images.githubusercontent.com/90697929/143724516-5a117d49-9c4c-4dfe-8a75-97c05c99a7f2.jpeg
+ ![WhatsApp Image 2021-11-27 at 21 30 31](https://user-images.githubusercontent.com/90697929/143724516-5a117d49-9c4c-4dfe-8a75-97c05c99a7f2.jpeg)
 
 ### Página das Salas (versão mobile)
 
- ![WhatsApp Image 2021-11-27 at 21 30 32](https://user-images.githubusercontent.com/90697929/143724485-4e006ae0-9091-4182-ae2b-bd8936ef140b.jpeg
+ ![WhatsApp Image 2021-11-27 at 21 30 32](https://user-images.githubusercontent.com/90697929/143724485-4e006ae0-9091-4182-ae2b-bd8936ef140b.jpeg)
 
 ## Entregas
 
